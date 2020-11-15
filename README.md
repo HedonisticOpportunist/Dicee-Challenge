@@ -8,4 +8,4 @@ Original code / completed code can be found here:
 
 https://www.appbrewery.co/p/web-development-course-resources
 
-URL: https://hedonisticopportunist.github.io/Dicee-Challenge/
+URL: https://hedonisticopportunist.github.io/Dicee-Challenge/dicee.html
